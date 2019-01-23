@@ -1,0 +1,9 @@
+--select count(*) from customers;
+--select * from customers;
+--select Id, Name, City, State, Sales, Active from Customers;
+--select name, city from customers;
+--select name as 'Customer Name', city from customers;
+--select * from customers where city = 'Cleveland'
+--select * from customers where city = 'Cleveland' or city = 'Columbus'
+--select * from customers where city in ('Cleveland', 'Columbus');
+--select * from customers where city = 'Cincinnati' order by sales desc
